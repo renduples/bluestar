@@ -23,6 +23,6 @@ Text Domain:  	twentytwentyone-child-theme
 }
 
 /* Footer Widget Area*/
-#page > aside {
+.widget-area {
 	margin-top: 0px;
 }
