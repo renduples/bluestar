@@ -54,7 +54,7 @@
 				<?php endif; ?>
 			</div><!-- .site-name -->
 			<div class="powered-by">
-				Copyright © <?php echo date('Y'); ?> All rights are reserved, owned and asserted by the author John P de Villiers
+				&nbsp;&nbsp;Copyright © <?php echo date('Y'); ?> All rights are reserved, owned and asserted by the author John P de Villiers
 			</div><!-- .powered-by -->
 
 		</div><!-- .site-info -->
