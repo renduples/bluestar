@@ -21,3 +21,8 @@ Text Domain:  	twentytwentyone-child-theme
 	margin-left: 0px;
 	font-size: 11px;
 }
+
+/* Footer Widget Area*/
+#page > aside {
+	margin-top: 0px;
+}
